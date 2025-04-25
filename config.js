@@ -5,11 +5,11 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "Pkdriller~5GNFmTQb#TjyK4l-yX2i3PgAv9kMjtPJ19uaV3WdnscC8cPQh1Ss",
 // add your Session Id 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-BOT_NAME: process.env.BOT_NAME || "✦ NEXUS ✦ XMD ✦",
+BOT_NAME: process.env.BOT_NAME || "✦ SHADOW WALKER BOT✦",
 // add bot namw here for menu
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -17,15 +17,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254112192119",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "263714183261",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "✦ NEXUS ✦ XMD ✦",
+OWNER_NAME: process.env.OWNER_NAME || "✦ Mandishona Innocent ✦",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ✦ NEXUS ✦ XMD ✦*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ✦ SHADOW WALKER V2✦*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/BKYt9f00/hanstz.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> NEXUS IS SPARKING ACTIVE AND ALIVE\n\n\nKEEP USING NEXUS XMD FROM NEXUS TECH INC⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> SHADOW WALKER BOT IS SPARKING ACTIVE AND ALIVE\n\n\nKEEP USING SHADOW WALKER BOT  FROM SHADOW WALKER V2⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -37,7 +37,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
-AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by NEXUS XMD 🚀🔥*",
+AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen bySHADOW WALKER BOT 🚀🔥*",
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
